@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imberbe/static/css/main.1f998af9.chunk.css",
+    "main.js": "/imberbe/static/js/main.e00aed68.chunk.js",
+    "main.js.map": "/imberbe/static/js/main.e00aed68.chunk.js.map",
+    "runtime~main.js": "/imberbe/static/js/runtime~main.0a7e0729.js",
+    "runtime~main.js.map": "/imberbe/static/js/runtime~main.0a7e0729.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/imberbe/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.90e19b21.chunk.js": "/imberbe/static/js/2.90e19b21.chunk.js",
+    "static/js/2.90e19b21.chunk.js.map": "/imberbe/static/js/2.90e19b21.chunk.js.map",
+    "index.html": "/imberbe/index.html",
+    "precache-manifest.bcc6d21712f65263fe67dde26ede254a.js": "/imberbe/precache-manifest.bcc6d21712f65263fe67dde26ede254a.js",
+    "service-worker.js": "/imberbe/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/imberbe/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.1f998af9.chunk.css.map": "/imberbe/static/css/main.1f998af9.chunk.css.map",
+    "static/media/App.css": "/imberbe/static/media/SmashWall-PersonalUse.3cc08607.woff",
+    "static/media/enviroment.png": "/imberbe/static/media/enviroment.e84dbb1d.png",
+    "static/media/location.png": "/imberbe/static/media/location.06ae42f4.png",
+    "static/media/top.jpg": "/imberbe/static/media/top.81780086.jpg",
+    "static/media/wildlife.png": "/imberbe/static/media/wildlife.8243f86e.png"
+  }
+}
