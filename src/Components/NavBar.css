@@ -1,0 +1,14 @@
+#NavBar {
+  background: linear-gradient(to left, LightGray, Black);
+}
+
+a {
+  text-decoration: none;
+}
+
+
+a > h1 {
+  font-size: 80px;
+  padding: 0;
+  margin: 0;
+}
