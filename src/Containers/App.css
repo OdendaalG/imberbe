@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Smash Wall Personal Use';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Smash Wall Personal Use'), url('SmashWall-PersonalUse.woff') format('woff');
+}
+.smash {
+  font-family: 'Smash Wall Personal Use';
+  color: Chocolate;
+  text-shadow: 0 0 0.2em White, 0 0 0.2em White, 0 0 0.2em White;
+  font-stretch: expanded;
+}
