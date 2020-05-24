@@ -1,3 +1,6 @@
 #Bottom {
   background: linear-gradient(to left, DarkOliveGreen, Black);
 }
+hover-enlarge:hover {
+    background-color: blue;
+}
